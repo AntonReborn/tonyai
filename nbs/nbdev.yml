@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tonyai"
+  site-url: "https://AntonReborn.github.io/tonyai"
+  description: "AI helper library"
+  repo-branch: main
+  repo-url: "https://github.com/AntonReborn/tonyai"
