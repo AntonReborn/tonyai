@@ -6,8 +6,8 @@ import random,math,torch,numpy as np,matplotlib.pyplot as plt
 import fastcore.all as fc
 from functools import partial
 
-from miniai.datasets import *
-from miniai.learner import *
+from .datasets import *
+from .learner import *
 
 # %% auto 0
 __all__ = ['set_seed', 'Hook', 'Hooks', 'HooksCallback', 'append_stats', 'get_hist', 'get_min', 'ActivationStats']
